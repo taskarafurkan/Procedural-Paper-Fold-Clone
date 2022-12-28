@@ -14,7 +14,7 @@ In this project i aimed for being able to create desired amount of procedurally 
  
 <br>
 
-https://user-images.githubusercontent.com/79703814/209814537-05a95cf1-8c70-4fa6-b2e6-9e4a31effd0d.mp4
+https://user-images.githubusercontent.com/79703814/209816426-dc44d2cb-c7c1-4de7-ad6d-3417bddd3937.mp4
 
 <br><br><br>
 
