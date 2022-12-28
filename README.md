@@ -1,6 +1,6 @@
 <div align="center">
 
-# Procedural-Paper-Fold-Clone
+# Procedural Paper Fold
 
 In this project i aimed for being able to create desired amount of procedurally generated levels with one button click.
  
